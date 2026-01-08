@@ -8,7 +8,7 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 ### What I’ve Been Building Lately
 
-- **Uthumim Corp**  
+- [**Uthumim Corp Platform**](https://www.uthumimcorp.com/)
   E-commerce platform for diagnostic testing
 
 - **Offline Conversational AI for Energy Data Analytics**  

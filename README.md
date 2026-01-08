@@ -3,7 +3,8 @@
 I love front-end work, UI/UX design, and product thinking. 
 I focus on building interfaces that feel intuitive and give users the best possible experience across products and websites.
 
-🌐[Portfolio Website](https://www.umershaikh.com/)  (PSA: may or may not need updating)  
+🌐[Portfolio Website](https://www.umershaikh.com/)  (PSA: may or may not need updating)
+
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/umershaikhswe)  
 
 ### What I’ve Been Building Lately

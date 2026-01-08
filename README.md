@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I’m Umer 👋
 
-<!--
-**TAShaikhh/TAShaikhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Software Engineering student at York University  
+Interested in product-focused engineering, frontend systems, and design-driven development.
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://www.umershaikh.com/
+_(PSA: currently being over-engineered)_
+🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/umershaikhswe)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’ve Been Building Lately
+
+- **Uthumim Corp**  
+  E-commerce platform for diagnostic testing
+
+- **Offline Conversational AI for Energy Data Analytics**  
+  Offline conversational AI system for querying structured energy datasets using natural language, without internet connectivity
+

@@ -1,6 +1,6 @@
 ## Hi there, I’m Umer 👋
 
-I love front-end work, UI/UX design, and product thinking. 
+I love front-end work, UI/UX design, and product thinking.  
 I focus on building interfaces that feel intuitive and give users the best possible experience across products and websites.
 
 🌐[Portfolio Website](https://www.umershaikh.com/)  (PSA: may or may not need updating)

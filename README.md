@@ -1,11 +1,10 @@
 ## Hi there, I’m Umer 👋
 
-4th-year Software Engineering student at York University  
-Interested in product-focused engineering, frontend systems, and design-driven development.
+I love front-end work, UI/UX design, and product thinking. 
+I focus on building interfaces that feel intuitive and give users the best possible experience across products and websites.
 
-🔗 Portfolio: https://www.umershaikh.com/
-_(PSA: currently being over-engineered)_
-🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/umershaikhswe)  
+🌐[My Portfolio Website](https://www.linkedin.com/in/umershaikhswe)  (PSA: May or may not need updating)
+🧑‍💼 [linkedin.com](https://www.linkedin.com/in/umershaikhswe)  
 
 ### What I’ve Been Building Lately
 

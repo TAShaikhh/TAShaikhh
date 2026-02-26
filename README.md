@@ -9,10 +9,10 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 ### What I’ve Been Building Lately
 
-- **Tech At York** 
+- **Tech At York**  
   A Centralized Collaboration Platform for York’s Tech Students
 
-- [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)
+- [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)  
   Offline conversational AI for querying structured energy datasets
 
 - **Food Discovery Platform**  

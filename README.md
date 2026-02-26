@@ -9,15 +9,18 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 ### What I’ve Been Building Lately
 
-- [**Uthumim Corp Platform**](https://www.uthumimcorp.com/)  
-  E-commerce platform for diagnostic testing
+- **Tech At York** 
+  A Centralized Collaboration Platform for York’s Tech Students
 
-- **Offline Conversational AI for Energy Data Analytics**  
+- [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)
   Offline conversational AI for querying structured energy datasets
 
 - **Food Discovery Platform**  
 
 ### Websites I've Built
+
+- [**Uthumim Corp Platform**](https://www.uthumimcorp.com/)  
+  E-commerce platform for diagnostic testing
 
 - [**Xeos Space**](https://xeos.space/)  
 

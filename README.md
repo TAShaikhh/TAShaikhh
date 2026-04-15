@@ -9,7 +9,7 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 ### What I’ve Been Building Lately
 
-- [**Tech at York**](https://tech-york.vercel.app/)  
+- [**Tech at York**](https://techyork.ca/)  
   A Centralized Collaboration Platform for York’s Tech Students
 
 - [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)  

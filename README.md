@@ -25,3 +25,10 @@ I focus on building interfaces that feel intuitive and give users the best possi
 - [**Xeos Space**](https://xeos.space/)  
 
 - [**Civioniks**](https://www.civioniks.com/)  
+
+### Past Projects
+- [**PrimeBid Forward Auction Platform**](https://github.com/TAShaikhh/Ecommerce)  
+  Built a microservices auction platform with concurrency-safe bidding, AI autonomous strategies, and containerized distributed deployment.
+
+- [**Room Booking System**](https://github.com/TAShaikhh/Room-Booking-System)  
+  Built a Java desktop room-booking platform with MVC architecture that manages user accounts, room inventory, reservation workflows, and automated check-in using event-driven sensors and a fully tested backend.

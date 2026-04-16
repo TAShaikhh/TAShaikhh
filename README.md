@@ -10,7 +10,7 @@ I focus on building interfaces that feel intuitive and give users the best possi
 ### What I’ve Been Building Lately
 
 - [**Tech at York**](https://techyork.ca/)  
-  A Centralized Collaboration Platform for York’s Tech Students
+  Tech York is a full-stack collaboration platform for university students designed to help users discover projects, join teams, chat securely, explore courses, and find research or internship opportunities.
 
 - [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)  
   Offline conversational AI for querying structured energy datasets

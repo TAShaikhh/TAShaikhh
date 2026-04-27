@@ -15,7 +15,10 @@ I focus on building interfaces that feel intuitive and give users the best possi
 - [**Offline Conversational AI for Energy Data Analytics**](https://plcai.netlify.app/)  
   Offline conversational AI for querying structured energy datasets
 
-- **Food Discovery Platform**  
+- **Food Discovery Platform**
+
+- [**Starmass Website**](https://starmass3.vercel.app/)  
+  Website for infrastructure monitoring
 
 ### Websites I've Built
 

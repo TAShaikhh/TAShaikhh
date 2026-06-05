@@ -17,7 +17,7 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 - **Food Discovery Platform**
 
-- [**Starmass Website**](https://starmass3.vercel.app/)  
+- [**Starmass Website**](https://www.starmass.ca/)  
   Website for infrastructure monitoring
 
 ### Websites I've Built

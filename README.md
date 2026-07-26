@@ -22,12 +22,14 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 ### Websites I've Built
 
+- [**Second Digital**](https://www.second.digital/)
+  
 - [**Uthumim Corp Platform**](https://www.uthumimcorp.com/)  
   E-commerce platform for diagnostic testing
 
 - [**Xeos Space**](https://xeos.space/)  
 
-- [**Civioniks**](https://www.civioniks.com/)  
+- [**Civioniks**](https://www.civioniks.com/)
 
 ### Past Projects
 - [**PrimeBid Forward Auction Platform**](https://github.com/TAShaikhh/Ecommerce)  

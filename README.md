@@ -11,6 +11,10 @@ I focus on building interfaces that feel intuitive and give users the best possi
 
 - [**Tech at York**](https://techyork.ca/)  
   Tech York is a full-stack collaboration platform for university students designed to help users discover projects, join teams, chat securely, explore courses, and find research or internship opportunities.
+- [**Compare FX Routes**](https://compare-fx-routes.vercel.app/) · [GitHub](https://github.com/TAShaikhh/Compare-FX-Routes)  
+  A fault-tolerant FX comparison engine that validates and normalizes heterogeneous provider data into a canonical currency graph, then uses fee-aware bounded depth-first search to rank multi-provider routes by net recipient value.
+- [**Set CV**](https://setcv.vercel.app/) · [GitHub](https://github.com/TAShaikhh/setcv)  
+  A local-first resume studio with nine ATS-safe templates, live PDF and LaTeX previews, targeted AI rewrites, deterministic job-description analysis, and evidence-linked cover letters.
 - **Food Discovery Platform**
 - [**Starmass Website**](https://www.starmass.ca/)  
   Website for infrastructure monitoring
